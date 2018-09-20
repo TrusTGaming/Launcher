@@ -2,4 +2,4 @@ latest_version: 1.0.0.0
 download_link: http://trust-gaming.revhost.fr/trust-gaming.revhost.fr/farmvivilebg/bootstrap/download/TrusT.jar
 updater_link: http://trust-gaming.revhost.fr/trust-gaming.revhost.fr/farmvivilebg/bootstrap/updater/
 restricted: true
-restricted_msg: Mise à jour du launcher en cours... Rééssayez plus tard
+restricted_msg: Mise à jour du launcher en cours
