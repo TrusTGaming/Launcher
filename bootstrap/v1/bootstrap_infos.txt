@@ -1,5 +1,5 @@
 latest_version: 1.0.1.0
-download_link: http://trust-gaming.revhost.fr/trust-gaming.revhost.fr/farmvivilebg/launcher/bootstrap/download/TrusT.jar
+download_link: http://www.trust-gaming.fr/minecraft/p/launcher_last_version
 updater_link: http://trust-gaming.revhost.fr/trust-gaming.revhost.fr/farmvivilebg/launcher/bootstrap/updater/
 restricted: false
 restricted_msg: Maintenance en cours...
