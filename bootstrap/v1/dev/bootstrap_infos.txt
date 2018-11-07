@@ -1,4 +1,4 @@
-latest_version: 1.1.0.1
+latest_version: 1.1.0.4
 download_link: http://farmvividev.alwaysdata.net/trust/launcher/download/TrusT_dev.jar
 updater_link: http://farmvividev.alwaysdata.net/trust/launcher/updater
 restricted: false
