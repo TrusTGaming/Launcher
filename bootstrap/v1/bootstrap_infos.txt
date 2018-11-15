@@ -2,4 +2,4 @@ latest_version: 1.0.1.1
 download_link: http://www.trust-gaming.fr/minecraft/p/launcher_last_version
 updater_link: http://trust-gaming.revhost.fr/trust-gaming.revhost.fr/farmvivilebg/launcher/bootstrap/updater/
 restricted: true
-restricted_msg: Problème launcher: utiliser l'installateur https://trust-gaming.fr/minecraft/launcher/launcher/TrusT-Installateurs.zip
+restricted_msg: Nous rencontrons actuellement un probleme avec les serveurs de mises à jour,\nVeuillez nous excusez pour la gene occasionner,\nPour continuer à jouer sur nos serveurs vous pouvez utiliser l'installateur,\n\nIci: https://trust-gaming.fr/minecraft/launcher/launcher/TrusT-Installateurs.zip
