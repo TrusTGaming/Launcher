@@ -3,5 +3,5 @@ download_link: http://trust.farmvivi.fr.nf/launcher/download/TrusT_dev.jar
 updater_link: http://trust.farmvivi.fr.nf/launcher/updater
 restricted: false
 restricted_msg: Mise à jour...
-info: false
-info_msg: 
+info: true
+info_msg: Un bug est présent sur cette version,\n ce qui fait que vous pouvez plus fermer le launcher quand il télécharge les fichiers\npour le fermer je vous conseille de faire une fin de tâche dans le gestionnaire des tâches.\nJ'espère résoudre ce bug demain, désolée du dérangement.\n\nCordialement, FarmVivi.
