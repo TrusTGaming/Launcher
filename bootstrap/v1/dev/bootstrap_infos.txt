@@ -4,4 +4,4 @@ updater_link: http://trust.farmvivi.fr.nf/launcher/updater
 restricted: false
 restricted_msg: Mise à jour...
 info: true
-info_msg: Ceci est un test pour ce nouveau système.
+info_msg: Ceci est un test pour ce nouveau système. \n Second test de ce système à la pointe de la technologie
