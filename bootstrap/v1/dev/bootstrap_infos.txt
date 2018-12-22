@@ -1,7 +1,7 @@
-latest_version: 1.1.0.4
+latest_version: 1.1.0.6
 download_link: http://trust.farmvivi.fr.nf/launcher/download/TrusT_dev.jar
 updater_link: http://trust.farmvivi.fr.nf/launcher/updater
 restricted: false
 restricted_msg: Mise à jour...
-info: true
-info_msg: Ceci est un test pour ce nouveau système. \n Second test de ce système à la pointe de la technologie
+info: false
+info_msg: 
