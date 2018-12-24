@@ -4,5 +4,5 @@ updater_link: http://trust.farmvivi.fr.nf/launcher/updater
 launcher_main_class: fr.trust.launcher.Main
 restricted: false
 restricted_msg: Mise à jour...
-info: true
-info_msg: Ceci est un test:\n\neéeèaàuù
+info: false
+info_msg: 
