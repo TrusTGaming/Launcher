@@ -5,4 +5,4 @@ launcher_main_class: fr.trust.launcher.Main
 restricted: false
 restricted_msg: Mise à jour...
 info: false
-info_msg: 
+info_msg: debug
