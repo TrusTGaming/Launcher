@@ -2,7 +2,7 @@ latest_version: 1.0.1.1
 download_link: http://www.trust-gaming.fr/minecraft/p/launcher_last_version
 updater_link: http://trust-gaming.fr/minecraft/launcher/launcher/bootstrap/updater
 launcher_main_class: fr.trust.launcher.Main
-restricted: false
-restricted_msg: Migration des serveurs de Mises à Jours en cours... Retour sous peu.
+restricted: true
+restricted_msg: Mise à jour du launcher en cours... Retour sous peu.
 info: false
 info_msg: 
