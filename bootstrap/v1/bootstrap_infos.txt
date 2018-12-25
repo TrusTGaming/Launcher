@@ -4,5 +4,5 @@ updater_link: http://www.trust-gaming.fr/minecraft/launcher/launcher/bootstrap/u
 launcher_main_class: fr.trust.launcher.Main
 restricted: false
 restricted_msg: Mise à jour du launcher en cours... Retour sous peu.
-info: true
-info_msg:   Bonjour, pour commencer Joyeux Noël ! Ce message est à titre informatif:\n- Il y a actuellement un "bug" qui fait que vous ne pouvez pas rejoindre le serveur roleplay car il manque un fichier,\nNous avons identifié le problème, il faut juste attendre qu'un admin fasse la modification, après cela vous pourez normalement rejoindre le serveur.\n\n- D'autre part, il y a aussi d'autres "bug" qui font par exemple que vous devez remettre à chaque fois votre pseudo en lançant minecraft,\nCe bug sera réglé par la suite, cela est dû au fait que nous n'avons pas encore eu le temps de finir de configurer nos serveurs de mise à jour.\n\nMalgré cela j'espère que ce nouveau launcher vous plaira quand même,\nCordialement, FarmVivi
+info: false
+info_msg: 
