@@ -2,7 +2,7 @@ latest_version: 1.1.1.0
 download_link: http://www.trust-gaming.fr/minecraft/p/launcher_last_version
 updater_link: http://www.trust-gaming.fr/minecraft/launcher/launcher/bootstrap/updater
 launcher_main_class: fr.trust.launcher.Main
-restricted: true
+restricted: false
 restricted_msg: Maintenance en cours...
 info: false
 info_msg: 
