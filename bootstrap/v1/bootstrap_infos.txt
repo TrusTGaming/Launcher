@@ -1,8 +1,8 @@
 latest_version: 1.1.1.0
-download_link: http://www.trust-gaming.fr/minecraft/p/launcher_last_version
+download_link: http://trust.farmvivi.fr.nf/launcher/download/TrusT.jar
 updater_link: http://www.trust-gaming.fr/minecraft/launcher/launcher/bootstrap/updater
 launcher_main_class: fr.trust.launcher.Main
-restricted: false
-restricted_msg: Maintenance en cours...
+restricted: true
+restricted_msg: Le serveur minecraft ayant fermé, le launcher n'est plus maintenu à jour jusqu'à nouvel ordre.
 info: false
 info_msg: 
