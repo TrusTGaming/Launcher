@@ -5,4 +5,4 @@ launcher_main_class: fr.trust.launcher.Main
 restricted: false
 restricted_msg: Mise à jour...
 info: true
-info_msg: Les serveurs TrusT sont fermé, vous pouvez donc seulement lancer Minecraft en version 1.8.9 sur ce launcher.
+info_msg: Les serveurs TrusT ayant fermés, vous pouvez seulement lancer Minecraft - Java Edition en version 1.8.9 sur ce launcher.
